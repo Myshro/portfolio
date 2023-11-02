@@ -19,7 +19,7 @@
       </p>
     </div>
     <div class="container">
-      <img id="me" src="../../running.gif" alt="A picture of me!">
+      <img id="me" src="../../public/running.gif" alt="A picture of me!">
     </div>
   </div>
 </template>
