@@ -14,7 +14,7 @@
     <div class="info">
       <h1>Hey there!</h1>
       <h2>My name is Jungtaek, nice to meet you.</h2>
-      <p>I'm currently a first-year computer science student at the <b id="name">University of Virginia.</b> 
+      <p>I'm currently a second-year computer science student at the <b id="name">University of Virginia.</b> 
         I am interested in editing, designing websites, and learning more about programming!
       </p>
     </div>

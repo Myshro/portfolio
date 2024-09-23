@@ -69,9 +69,8 @@ import MyHeader from './components/MyHeader.vue'
     top: 0;
     box-sizing: border-box;
     width: 100%;
-    padding: 3rem;
+    padding: 3rem 3rem 6rem;
     transition: all .2s ease-in-out;
     /* border-bottom: 4px solid black; */
-    padding-bottom: 6rem;
   }
 </style>
